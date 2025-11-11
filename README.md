@@ -8,3 +8,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=DevThiagoGalvao&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=DevThiagoGalvao&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevThiagoGalvao&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevThiagoGalvao/DevThiagoGalvao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevThiagoGalvao/DevThiagoGalvao/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevThiagoGalvao/DevThiagoGalvao/output/pacman-contribution-graph.svg">
+</picture>
